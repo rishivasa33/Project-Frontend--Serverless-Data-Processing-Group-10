@@ -1,4 +1,4 @@
-# CI/CD Process for SDP 10 Trivia Titans Frontend:
+# CI/CD Process for SDP 10 Trivia Titans Frontend::
 
 
 1.	Clone the CS GitLab repository to your local machine - https://git.cs.dal.ca/vasa/csci5410-sdp-10.git
